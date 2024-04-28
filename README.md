@@ -1,1 +1,1 @@
-This is my first small project to begin programming with java 
+This are my first small projects to begin programming with java 
