@@ -22,7 +22,7 @@ class Main{
         board[row][col]=player;
         gameover=win(board,player);
         if(gameover){
-          System.out.println("Player "+ player +" wins");
+          System.out.println("PLAYER "+ player +" WON");
 
         }
         else{
